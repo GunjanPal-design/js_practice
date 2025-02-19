@@ -83,6 +83,7 @@ function Prime(number) {
 
 }
 let output = Prime(15)
+console.log("testssss")
 console.log(output);
 
 
